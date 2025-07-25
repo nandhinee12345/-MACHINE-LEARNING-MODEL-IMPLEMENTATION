@@ -54,3 +54,7 @@ ________________________________________
 📌 Conclusion
 This spam classification task is a classic example of how Natural Language Processing (NLP) and machine learning can be applied to solve real-world problems. Using tools like Scikit-learn, you can create effective, lightweight models that handle text classification tasks with reasonable accuracy and speed. Platforms like Jupyter Notebook make it easy to experiment, visualize, and iterate on models — a crucial part of modern data science workflows.
 Let me know if you'd like to expand this into a PDF report or include more features like TF-IDF or logistic regression.
+
+output:
+
+<img width="932" height="665" alt="Image" src="https://github.com/user-attachments/assets/de40ef96-1433-4253-82b2-0ae99c9a0f2c" />
